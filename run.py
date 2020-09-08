@@ -1,0 +1,1 @@
+DBPATH = "data/listings.db"
